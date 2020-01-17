@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4BFE4BCD-6149-2F5B-F083-278FEC308F75}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Scorched",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
